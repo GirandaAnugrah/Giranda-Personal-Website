@@ -1,6 +1,6 @@
 const LoadingFallback = () => {
   return (
-    <div className="flex h-screen bg-black justify-center items-center">
+    <div className="flex h-screen bg-primary justify-center items-center">
       <svg
         aria-hidden="true"
         className="aspect-square w-20 text-gray-200 animate-spin dark:text-gray-600 fill-secondary"
